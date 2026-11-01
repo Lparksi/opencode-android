@@ -1,0 +1,43 @@
+{
+  "platform": "linux",
+  "arch": "x64",
+  "node": "v24.19.0",
+  "android": false,
+  "results": [
+    {
+      "name": "files",
+      "ok": true,
+      "detail": "UTF-8 file read/write"
+    },
+    {
+      "name": "sqlite",
+      "ok": true,
+      "detail": "WAL and reopen"
+    },
+    {
+      "name": "shell",
+      "ok": true,
+      "detail": "Child process executed"
+    },
+    {
+      "name": "git",
+      "ok": true,
+      "detail": "Repository initialized"
+    },
+    {
+      "name": "watch",
+      "ok": true,
+      "detail": "File event received"
+    },
+    {
+      "name": "http",
+      "ok": true,
+      "detail": "Loopback HTTP round trip"
+    },
+    {
+      "name": "pty",
+      "ok": true,
+      "detail": "PTY output and process exit"
+    }
+  ]
+}

@@ -1,0 +1,11 @@
+{
+  "upstream": "v2.2.5",
+  "commit": "9bbb8ce18c80f099e0e448775f59d965ead40a21",
+  "command": "bun run --cwd packages/app build",
+  "bun": "1.4.4",
+  "platform": "linux-x64",
+  "exitCode": 0,
+  "files": 5520,
+  "bytes": 149504752,
+  "androidWebViewVerified": false
+}

@@ -1,0 +1,7 @@
+.upstream/
+.tools/
+artifacts/
+node_modules/
+local.properties
+.gradle/
+**/build/
